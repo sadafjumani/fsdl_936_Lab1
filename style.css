@@ -1,0 +1,35 @@
+/* Background styling */
+body {
+    background: linear-gradient(to right, #e3f2fd, #ffffff);
+    font-family: Arial, sans-serif;
+}
+
+/* Form box styling (class selector) */
+.form-box {
+    background-color: white;
+    border: 2px solid #0d6efd;
+    border-radius: 10px;
+    padding: 25px;
+    margin-bottom: 30px;
+}
+
+/* Tag selector */
+table {
+    background-color: white;
+}
+
+/* ID selector example */
+#table h3 {
+    color: #0d6efd;
+}
+
+/* Hover effect for button */
+button:hover {
+    background-color: #084298 !important;
+}
+
+/* Margin & padding example */
+footer {
+    margin-top: 40px;
+    padding: 15px;
+}
